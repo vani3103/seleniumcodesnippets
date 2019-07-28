@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38913" started-at="2019-07-28T18:54:36Z" finished-at="2019-07-28T18:55:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38913" started-at="2019-07-28T18:54:36Z" finished-at="2019-07-28T18:55:15Z">
+      <class name="seleniumConcepts.HighlightAnElement">
+        <test-method status="PASS" signature="ElementHighlighing()[pri:0, instance:seleniumConcepts.HighlightAnElement@167c1fc]" name="ElementHighlighing" duration-ms="38827" started-at="2019-07-28T18:54:36Z" finished-at="2019-07-28T18:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementHighlighing -->
+      </class> <!-- seleniumConcepts.HighlightAnElement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
